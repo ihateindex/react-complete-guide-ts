@@ -1,0 +1,15 @@
+{
+  "name": "react-complete-guide-ts",
+  "version": "1.0.0",
+  "description": "React 완벽 가이드 with Redux, Next.js, TypeScript 중 TypeScript 부분 예제",
+  "main": "no-typescript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.0.4"
+  }
+}
